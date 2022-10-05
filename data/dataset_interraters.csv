@@ -1,0 +1,87 @@
+,respondent_id,question_id,posttime,ranking,opmerkingen,context_aangeroepen
+0,a09c17eef175ae3b86eba77d82b24b17,169,2021-10-12 17:25:53,"azure,ibm,google",Geen extra informatie,kan niet
+1,a09c17eef175ae3b86eba77d82b24b17,34,2021-10-12 17:26:45,"ibm,azure,google",Geen extra informatie,kan niet
+2,a09c17eef175ae3b86eba77d82b24b17,154,2021-10-12 17:27:34,"ibm,google,azure",Geen extra informatie,kan niet
+3,a09c17eef175ae3b86eba77d82b24b17,132,2021-10-12 17:28:40,"ibm,google,azure",Ik twijfel tussen nummer 1 en 2,Nog niks
+4,a09c17eef175ae3b86eba77d82b24b17,30,2021-10-12 17:28:53,"azure,google,ibm",Geen extra informatie,Nog niks
+5,a09c17eef175ae3b86eba77d82b24b17,73,2021-10-12 17:29:34,"google,ibm,azure",Ik twijfel tussen nummer 2 en 3,Nog niks
+6,a09c17eef175ae3b86eba77d82b24b17,147,2021-10-12 17:30:04,"google,azure,ibm",Geen extra informatie,kan niet
+7,a09c17eef175ae3b86eba77d82b24b17,183,2021-10-12 17:30:26,"google,ibm,azure",Ik twijfel tussen nummer 2 en 3,Nog niks
+8,a09c17eef175ae3b86eba77d82b24b17,88,2021-10-12 17:31:27,"google,azure,ibm",Geen extra informatie,Nog niks
+9,a09c17eef175ae3b86eba77d82b24b17,113,2021-10-12 17:31:38,"google,ibm,azure",Geen extra informatie,kan niet
+10,a09c17eef175ae3b86eba77d82b24b17,10,2021-10-12 17:32:24,"google,ibm,azure",Geen extra informatie,Nog niks
+11,a09c17eef175ae3b86eba77d82b24b17,31,2021-10-12 17:32:57,"google,azure,ibm",Geen extra informatie,Nog niks
+12,a09c17eef175ae3b86eba77d82b24b17,119,2021-10-12 17:33:33,"ibm,google,azure",Ik vind dat ze alle 3 even goed zijn,kan niet
+13,b53c9ef555d96acbdc62722ec340dfe7,138,2021-12-14 10:39:10,"ibm,google,azure",Ik twijfel tussen nummer 1 en 2,context nodig
+14,b53c9ef555d96acbdc62722ec340dfe7,195,2021-12-14 10:39:49,"google,azure,ibm",Geen extra informatie,kan niet
+15,b53c9ef555d96acbdc62722ec340dfe7,41,2021-12-14 10:40:18,"google,ibm,azure",Geen extra informatie,kan niet
+16,b53c9ef555d96acbdc62722ec340dfe7,111,2021-12-14 10:40:53,"google,azure,ibm",Geen extra informatie,kan niet
+17,b53c9ef555d96acbdc62722ec340dfe7,10,2021-12-14 10:42:11,"ibm,google,azure",Ik twijfel tussen nummer 2 en 3,Nog niks
+18,b53c9ef555d96acbdc62722ec340dfe7,193,2021-12-14 10:42:48,"google,azure,ibm",Ik vind dat ze alle 3 even goed zijn,context nodig
+19,b53c9ef555d96acbdc62722ec340dfe7,93,2021-12-14 10:43:31,"ibm,azure,google",Ik twijfel tussen nummer 1 en 2,Nog niks
+20,b53c9ef555d96acbdc62722ec340dfe7,42,2021-12-14 10:44:05,"google,ibm,azure",Ik twijfel tussen nummer 2 en 3,kan niet
+21,ef742751b01baf542d0353a139c8b153,1,2021-12-14 10:44:33,"azure,ibm,google",Geen extra informatie,Nog niks
+22,b53c9ef555d96acbdc62722ec340dfe7,197,2021-12-14 10:44:43,"google,ibm,azure",Ik twijfel tussen nummer 2 en 3,Nog niks
+23,b53c9ef555d96acbdc62722ec340dfe7,15,2021-12-14 10:44:56,"ibm,google,azure",Geen extra informatie,kan niet
+24,b53c9ef555d96acbdc62722ec340dfe7,66,2021-12-14 10:45:20,"azure,ibm,google",Geen extra informatie,kan niet
+25,ef742751b01baf542d0353a139c8b153,92,2021-12-14 10:45:30,"google,azure,ibm",Geen extra informatie,context nodig
+26,b53c9ef555d96acbdc62722ec340dfe7,121,2021-12-14 10:46:07,"google,ibm,azure",Geen extra informatie,Nog niks
+27,b53c9ef555d96acbdc62722ec340dfe7,129,2021-12-14 10:46:39,"google,azure,ibm",Geen extra informatie,Nog niks
+28,ef742751b01baf542d0353a139c8b153,134,2021-12-14 10:46:46,"google,azure,ibm",Geen extra informatie,context nodig
+29,b53c9ef555d96acbdc62722ec340dfe7,157,2021-12-14 10:47:23,"google,ibm,azure",Geen extra informatie,kan niet
+30,ef742751b01baf542d0353a139c8b153,77,2021-12-14 10:48:08,"ibm,azure,google",Geen extra informatie,Nog niks
+31,b53c9ef555d96acbdc62722ec340dfe7,105,2021-12-14 10:48:11,"google,ibm,azure",Geen extra informatie,kan niet
+32,ef742751b01baf542d0353a139c8b153,15,2021-12-14 10:48:32,"google,ibm,azure",Geen extra informatie,kan niet
+33,b53c9ef555d96acbdc62722ec340dfe7,201,2021-12-14 10:49:24,"azure,ibm,google",Ik vind dat ze alle 3 even goed zijn,kan niet
+34,ef742751b01baf542d0353a139c8b153,142,2021-12-14 10:50:21,"google,azure,ibm",Geen extra informatie,context nodig
+35,b53c9ef555d96acbdc62722ec340dfe7,86,2021-12-14 10:50:55,"google,azure,ibm",Geen extra informatie,Nog niks
+36,b53c9ef555d96acbdc62722ec340dfe7,141,2021-12-14 10:51:40,"azure,google,ibm",Geen extra informatie,Nog niks
+37,ef742751b01baf542d0353a139c8b153,40,2021-12-14 10:52:04,"google,ibm,azure",Geen extra informatie,Nog niks
+38,b53c9ef555d96acbdc62722ec340dfe7,198,2021-12-14 10:52:14,"azure,google,ibm",Geen extra informatie,kan niet
+39,ef742751b01baf542d0353a139c8b153,25,2021-12-14 10:52:40,"google,azure,ibm",Geen extra informatie,context nodig
+40,ef742751b01baf542d0353a139c8b153,145,2021-12-14 10:53:35,"google,ibm,azure",Geen extra informatie,Nog niks
+41,b53c9ef555d96acbdc62722ec340dfe7,155,2021-12-14 10:53:35,"google,azure,ibm",Ik twijfel tussen nummer 2 en 3,Nog niks
+42,b53c9ef555d96acbdc62722ec340dfe7,95,2021-12-14 10:53:54,"google,ibm,azure",Geen extra informatie,kan niet
+43,b53c9ef555d96acbdc62722ec340dfe7,59,2021-12-14 10:54:27,"ibm,azure,google",Geen extra informatie,Nog niks
+44,ef742751b01baf542d0353a139c8b153,60,2021-12-14 10:54:31,"google,azure,ibm",Geen extra informatie,Nog niks
+45,ef742751b01baf542d0353a139c8b153,76,2021-12-14 10:56:11,"google,ibm,azure",Geen extra informatie,Nog niks
+46,ef742751b01baf542d0353a139c8b153,82,2021-12-14 10:56:44,"google,azure,ibm",Geen extra informatie,kan niet
+47,ef742751b01baf542d0353a139c8b153,54,2021-12-14 10:57:46,"google,azure,ibm",Geen extra informatie,Nog niks
+48,ef742751b01baf542d0353a139c8b153,152,2021-12-14 10:58:17,"ibm,azure,google",Geen extra informatie,kan niet
+49,ef742751b01baf542d0353a139c8b153,4,2021-12-14 10:59:03,"azure,ibm,google",Geen extra informatie,context nodig
+50,ef742751b01baf542d0353a139c8b153,104,2021-12-14 10:59:10,"google,ibm,azure",Geen extra informatie,kan niet
+51,298acebdfa795977045cedd8f44e3011,151,2021-12-14 17:34:01,"ibm,azure,google",Geen extra informatie,Nog niks
+52,298acebdfa795977045cedd8f44e3011,187,2021-12-14 17:35:01,"azure,google,ibm",Ik twijfel tussen nummer 2 en 3,Nog niks
+53,298acebdfa795977045cedd8f44e3011,36,2021-12-14 17:35:29,"google,ibm,azure",Geen extra informatie,Nog niks
+54,298acebdfa795977045cedd8f44e3011,124,2021-12-14 17:35:57,"azure,ibm,google",Geen extra informatie,Nog niks
+55,298acebdfa795977045cedd8f44e3011,81,2021-12-14 17:36:15,"azure,google,ibm",Geen extra informatie,kan niet
+56,298acebdfa795977045cedd8f44e3011,80,2021-12-14 17:36:52,"google,ibm,azure",Geen extra informatie,Nog niks
+57,298acebdfa795977045cedd8f44e3011,150,2021-12-14 17:37:16,"azure,google,ibm",Geen extra informatie,kan niet
+58,298acebdfa795977045cedd8f44e3011,178,2021-12-14 17:39:27,"google,ibm,azure",Geen extra informatie,Nog niks
+59,298acebdfa795977045cedd8f44e3011,78,2021-12-14 17:39:38,"azure,ibm,google",Geen extra informatie,kan niet
+60,298acebdfa795977045cedd8f44e3011,74,2021-12-14 17:40:21,"google,ibm,azure",Geen extra informatie,Nog niks
+61,298acebdfa795977045cedd8f44e3011,79,2021-12-14 17:41:08,"ibm,google,azure",Geen extra informatie,Nog niks
+62,298acebdfa795977045cedd8f44e3011,137,2021-12-14 17:41:34,"google,azure,ibm",Geen extra informatie,Nog niks
+63,298acebdfa795977045cedd8f44e3011,67,2021-12-14 17:41:52,"azure,google,ibm",Geen extra informatie,Nog niks
+64,298acebdfa795977045cedd8f44e3011,69,2021-12-14 17:42:19,"google,azure,ibm",Ik twijfel tussen nummer 1 en 2,kan niet
+65,298acebdfa795977045cedd8f44e3011,148,2021-12-14 17:42:33,"azure,ibm,google",Geen extra informatie,Nog niks
+66,298acebdfa795977045cedd8f44e3011,32,2021-12-14 17:42:56,"google,azure,ibm",Geen extra informatie,kan niet
+67,298acebdfa795977045cedd8f44e3011,3,2021-12-14 17:43:18,"google,azure,ibm",Geen extra informatie,kan niet
+68,298acebdfa795977045cedd8f44e3011,211,2021-12-14 17:43:54,"azure,google,ibm",Geen extra informatie,Nog niks
+69,d0a46167d4d6c6ea9c66497042ef6ae9,186,2021-12-22 08:40:06,"azure,ibm,google",Ik twijfel tussen nummer 1 en 2,kan niet
+70,d0a46167d4d6c6ea9c66497042ef6ae9,149,2021-12-22 08:46:22,"google,azure,ibm",Ik twijfel tussen nummer 1 en 2,Nog niks
+71,d0a46167d4d6c6ea9c66497042ef6ae9,6,2021-12-22 08:47:45,"azure,ibm,google",Ik twijfel tussen nummer 1 en 2,kan niet
+72,d0a46167d4d6c6ea9c66497042ef6ae9,208,2021-12-22 08:51:02,"azure,google,ibm",Geen extra informatie,Nog niks
+73,d0a46167d4d6c6ea9c66497042ef6ae9,27,2021-12-22 08:52:20,"google,azure,ibm",Geen extra informatie,Nog niks
+74,d0a46167d4d6c6ea9c66497042ef6ae9,165,2021-12-22 08:53:45,"azure,ibm,google",Ik twijfel tussen nummer 2 en 3,Nog niks
+75,d0a46167d4d6c6ea9c66497042ef6ae9,144,2021-12-22 08:55:12,"google,ibm,azure",Geen extra informatie,Nog niks
+76,d0a46167d4d6c6ea9c66497042ef6ae9,58,2021-12-22 08:56:15,"ibm,azure,google",Ik vind dat ze alle 3 even goed zijn,kan niet
+77,d0a46167d4d6c6ea9c66497042ef6ae9,89,2021-12-22 08:57:04,"google,azure,ibm",Geen extra informatie,kan niet
+78,d0a46167d4d6c6ea9c66497042ef6ae9,18,2021-12-22 08:57:22,"ibm,azure,google",Ik vind dat ze alle 3 even goed zijn,kan niet
+79,d0a46167d4d6c6ea9c66497042ef6ae9,209,2021-12-22 08:58:02,"google,azure,ibm",Geen extra informatie,Nog niks
+80,d0a46167d4d6c6ea9c66497042ef6ae9,126,2021-12-22 08:58:37,"azure,ibm,google",Ik twijfel tussen nummer 2 en 3,Nog niks
+81,d0a46167d4d6c6ea9c66497042ef6ae9,135,2021-12-22 08:59:30,"azure,google,ibm",Ik twijfel tussen nummer 1 en 2,kan niet
+82,d0a46167d4d6c6ea9c66497042ef6ae9,117,2021-12-22 09:00:47,"azure,google,ibm",Geen extra informatie,Nog niks
+83,d0a46167d4d6c6ea9c66497042ef6ae9,147,2021-12-22 09:01:28,"google,azure,ibm",Ik twijfel tussen nummer 2 en 3,kan niet
+84,d0a46167d4d6c6ea9c66497042ef6ae9,22,2021-12-22 09:02:33,"google,azure,ibm",Ik twijfel tussen nummer 2 en 3,Nog niks
+85,d0a46167d4d6c6ea9c66497042ef6ae9,114,2021-12-22 09:03:20,"azure,ibm,google",Ik twijfel tussen nummer 2 en 3,Nog niks
